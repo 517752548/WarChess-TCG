@@ -36,3 +36,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/WTClient/.vscode
+/WTClient/Library
